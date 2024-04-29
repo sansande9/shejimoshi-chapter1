@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <className>edu.cqie.qiaojie.JPGImage</className>
+    <className>edu.cqie.qiaojie.WindowImp</className>
+</config>
