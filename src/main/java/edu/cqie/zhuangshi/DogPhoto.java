@@ -1,4 +1,4 @@
-package zhuangshi;
+package edu.cqie.zhuangshi;
 
 public class DogPhoto extends Picture{
     public void show(){

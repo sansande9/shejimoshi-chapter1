@@ -1,6 +1,6 @@
 package edu.cqie.daili;
 
-public class JD extends Mobile{
+public class JD extends Mobile {
     private Mobile huaWeiPhone;
 
     public void setHuaWeiPhone(Mobile huaWeiPhone){

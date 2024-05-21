@@ -1,4 +1,4 @@
-package zhuangshi;
+package edu.cqie.zhuangshi;
 
 public abstract class PhotoFrame extends Picture{
     protected Picture picture;

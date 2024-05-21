@@ -1,4 +1,4 @@
-package zhuangshi;
+package edu.cqie.zhuangshi;
 
 public class Client {
     public static void main(String[] args) {
